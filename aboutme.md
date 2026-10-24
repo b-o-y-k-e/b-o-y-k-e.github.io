@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: about me
+subtitle: why do you care?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+my name is boy, im 16, im from the netherlands, and this is my blog where i post about cybersecurity and other topics im interested in.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### why did i make this?
 
-What else do you need?
+just trying out some blog stuff, since i think that explaining something in a blog style is the best way of learning more since i have to look stuff up etc.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+bye now
