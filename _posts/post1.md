@@ -59,6 +59,8 @@ i ran **strings /srv/honeypot-files/hash | grep -iE "webhook"**
 
 holy shit there it is.
 
+"discord.com/api/webhooks/960954050583613549/YAkGomn5eYtrPChuOPz87pIkS7WK2XpB5Y3ozZQXaAho2VCBN99g7k9oqSAPJ9Ji7bTr0"
+
 ran it via curl, sadly a 404, so the webhook isnt active anymore.
 
 nevertheless, i thought this was fun to write about, and maybe educational for some.
