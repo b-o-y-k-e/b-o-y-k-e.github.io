@@ -9,17 +9,23 @@ tags: [phishing, telegram]
 ---
 
 Gday,
+
 Today I will be showing you how to infiltrate malicious Telegram bots linked to phishing sites.
 
 These phishing sites are easily found on sites like PhishTank, or anything similar.
+
 I noticed that most of these phishing sites with telegram bots are usually Facebook ones.
+
 They are usually either a fake ban appeal, or a fake "verification checkmark" site.
+
 Even though these types of sites look really crappy to me and you, tech-illiterate people don't know any better.
+
 These types of sites are usually ran by Turkish or Vietnamese people, from what I've seen.
 
 ![1](https://i.imgur.com/xsk0LMR.jpeg)
 
 This is an example of one of those "phishing toolkits".
+
 To be honest, it looks really realistic and I can see someone falling for this.
 
 After clicking on "Submit request", it shows you this:
@@ -35,6 +41,7 @@ This is what you want to see. You need a Chat ID, and the "bot token" to forward
 ![4](https://i.imgur.com/C2SUlgu.jpeg)
 
 And as you can see, it shows you the chat ID in the headers here including what it's sending.
+
 From there, you can use a tool like [Matkap](https://github.com/0x6rss/matkap) to infiltrate the bot and make it send stuff to you.
 
 I'm not going into Matkap and how it works too much, but it basically forwards everything in a chat (from the chat ID) to your telegram account.
